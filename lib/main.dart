@@ -8,6 +8,7 @@ import 'package:hotel_project/screen/sign_up_admin_screen/sign_up_admin_screen.d
 import 'screen/rooms_screen/rooms_screen.dart';
 import 'screen/sign_up_user_screen/sign_up_user_screen.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
